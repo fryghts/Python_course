@@ -23,5 +23,8 @@
 | 17 | Объектная модель | 18.11.2025 | [Смотреть](https://rutube.ru/video/private/39ad59517e6a8d2794f6b886e5d7da48/?p=syPNvYpUFzsSvXfratrZcQ) |
 | 18 | *— запись отсутствует —* | — | — |
 | 19 | Модули. Основы Numpy | 25.11.2025 | [Смотреть](https://rutube.ru/video/private/39ad59517e6a8d2794f6b886e5d7da48/?p=syPNvYpUFzsSvXfratrZcQ) |
+| 20 | Модули. Основы Pandas | 26.11.2025 | [Смотреть](https://rutube.ru/video/private/666482b75e0460cdb76c9093864a4fbf/?p=Yg3xL7RSFgfuClc6btu3bg) |
+
+
 
 
